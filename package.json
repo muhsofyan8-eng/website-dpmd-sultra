@@ -1,0 +1,1 @@
+{"name": "website-dpmd-sultra","version": "1.0.0","description": "Express server setup for website-dpmd-sultra","main": "index.js","scripts": {"start": "node index.js","dev": "nodemon index.js"},"author": "muhsofyan8-eng","license": "ISC","dependencies": {"express": "^4.17.1"},"devDependencies": {"nodemon": "^2.0.12"}}
